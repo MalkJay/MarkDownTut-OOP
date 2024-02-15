@@ -41,3 +41,33 @@ yippie
 	
 
 ![cat](Cat.gif)
+
+## formatting :)
+
+this text is **bold** <br>
+this can also be __bold__ <br>
+this text is *italics* <br>
+this can also be _italics_ <br>
+now who is ready for ***bold italics*** <br>
+~~this is text is strikeout~~ <br>
+this text is <ins>underline</ins>
+
+<ol>
+	<li> ONE </li>
+	<li> TWO </li>
+	<li> THREE </li>
+	<li> FOUR </li>
+
+</ol>
+
+Or <br>
+1. :)
+2. :(
+3. ;)
+4. :O
+5. :D <br>
+NICE<br>
+
+[Buy this please](https://www.playstation.com/en-au/games/bloodborne/) <br>
+[links label](#links)<br>
+[cobeblock](#codeblock)
