@@ -68,6 +68,12 @@ Or <br>
 5. :D <br>
 NICE<br>
 
+git add . <br>
+git commit -m "" <br>
+git push <br>
+
 [Buy this please](https://www.playstation.com/en-au/games/bloodborne/) <br>
 [links label](#links)<br>
 [cobeblock](#codeblock)<br>
+
+
