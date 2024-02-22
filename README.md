@@ -32,7 +32,7 @@ yippie
  Coding time
  {
 	int test = 0
-
+ }
 	~~~
 	this key also works
 	as well as this 
@@ -70,6 +70,11 @@ NICE<br>
 
 git add . <br>
 git commit -m "" <br>
+git push <br>
+
+to merge <br>
+git checkout branch name<br>
+git merge other branch name -m "merged"<br>
 git push <br>
 
 [Buy this please](https://www.playstation.com/en-au/games/bloodborne/) <br>
